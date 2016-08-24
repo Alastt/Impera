@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title"><a href="/notes">Impera Café</a></div>
+                <div class="title"><a href="/notes">Impera Cafe</a></div>
             </div>
         </div>
     </body>
